@@ -1,5 +1,6 @@
 # codes
-![gopher-codes](https://github.com/gonnafaraway/codes/assets/35832930/d945c23f-7c2d-4623-a5b3-47f09185db0c)
+![gopher-codes](https://github.com/gonnafaraway/codes/assets/35832930/fb27d3da-8e7d-4242-ab06-7a8871dd0460)
+
 
 ## About
 Library with static codes for different cases to use in your code and prevent developers to keep project code base dry and simple.
