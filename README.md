@@ -3,6 +3,10 @@
 
 ## About
 Library with static codes for different cases to use in your code and prevent developers to keep project code base dry and simple.
+## List of codes categories
+* Linux
+* HTTP
+* GRPC
 ## Usage
 ```go
 package main
