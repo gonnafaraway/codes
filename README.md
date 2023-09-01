@@ -7,6 +7,7 @@ Library with static codes for different cases to use in your code and prevent de
 * Linux
 * HTTP
 * GRPC
+* TCP/UDP ports
 ## Usage
 ```go
 package main
